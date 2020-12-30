@@ -2,15 +2,120 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bbe9a947-1cfb-4d18-9805-83c529da6504" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/fonts/ElegantIcons.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/ElegantIcons.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/Material-Design-Iconic-Font.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/Material-Design-Iconic-Font.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/utm_avo.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/Banner.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/bo-sap-trai-mua.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/dieu-nhan-trang-be-doi.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/dieu-trang-nguyen-hat.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/dieu-vo-lua-dong-hop.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/dieu-vo-lua-hang-xa.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/giabao-logo-top-mobile.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/lap-xuong-trung-muoi.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/lap-xuong-tuoi-500g.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/css" beforeDir="false" afterPath="$PROJECT_DIR$/source/style_css.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/1-Best-Wish-600x600.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/2-All-The-Best-600x600.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/3-Bloomy-600x600.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/3_Oc-do-600x600.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/4-Shiny-600x600.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/5-Sunrise-600x600.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/6-Sunny-Land-600x600.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/Banner.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/Glory-600x600.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/Hat-chia-350gr-600x600.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/Hat-chia-600gr-600x600.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/LOGO-01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/LOGO-02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/LOGO-03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/LOGO-04.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/LOGO-05.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/LOGO-06.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/LOGO.png" beforeDir="false" afterPath="$PROJECT_DIR$/source/LOGO.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/Nho-kho-150g-600x600.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/Nho-kho-vang-150g-600x600.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/bang-gia-hat-dinh-duong-trai-cay-say.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/bazanland-logo-top-mobile.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/ca-phe-bazanland-rang-xay-600x600.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/cha-la-kho-bazanland-600x484.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/cha-la-nguyen-canh-120g-600x600.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/cha-la-say-130g-600x600.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/cha-la-say-320g-600x600.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/cha-la-say-500g-600x600.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/dieu-600x600.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/du-du-say-deo-300g-600x600.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/du-du-say-deo-600x600.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/graden-logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/green-logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/hanh-nhan-600x600.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/hanh-nhan-rang-bo-100g-600x600.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/hanh-nhan-rang-bo-250g-600x600.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/hanh-nhan-rang-bo-400g-600x600.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/hanh-nhan-rang-moc-150g-600x600.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/source/hanh-nhan-rang-moc-150g-600x600.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/hanh-nhan-rang-moc-300g-600x600.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/hanh-nhan-tach-vo-rang-moc-500g-600x600.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/hat-chia-200g-600x600.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/hat-de-600x600.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/hat-de-cuoi-120g-600x600.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/hat-de-cuoi-150g-600x600.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/hat-de-cuoi-250g-1-600x600.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/hat-de-cuoi-450g-600x600.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/hat-dieu-rang-muoi-150g-600x600(1).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/hat-dieu-rang-muoi-150g-600x600.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/hat-dieu-rang-muoi-300g-600x600.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/hat-dieu-rang-muoi-500g-600x600.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/hat-dieu-vo-lua-120g-600x600.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/hat-dieu-vo-lua-150g-1-600x600.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/hat-dieu-vo-lua-250g-1-600x600.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/hat-dieu-vo-lua-450g-600x600.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/hat-hon-hop-150g-600x600.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/hat-hon-hop-300g-600x600.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/hat-hon-hop-500g-600x600.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/hat-mac-ca-150g-600x600.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/hat-mac-ca-500g-600x600.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/hat-macca-da-lat-bo-duong-600x484.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/hat-macca-nguyen-vo-120g-600x600.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/hat-macca-nguyen-vo-300g-600x600.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/hat-oc-cho-loai-nao-tot-720x484.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/hat-oc-cho-nguyen-vo-150g-600x600.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/hat-oc-cho-nguyen-vo-200g-600x600.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/hat-oc-cho-nguyen-vo-300g-600x600.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/hatbi-600x600.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/khay-mut-600x600.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/mamafood-logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/mat-ong-nguyen-chat-bazanland-3-600x600.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/mo-600x600.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/mo-say-deo-150g-600x600.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/mo-say-deo-350g-600x600.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/nhan-hat-macca-150g-600x600.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/nhan-hat-macca-320g-600x600.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/nhan-hat-macca-500g-600x600.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/nhan-hat-oc-cho-100g-600x600.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/nhan-hat-oc-cho-120g-600x600.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/nhan-hat-oc-cho-200g-600x600.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/nhan-hat-oc-cho-350g-600x600.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/nhan-hat-oc-cho-do-120g-600x600.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/nhan-hat-oc-cho-do-250g-600x600.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/nhan-hat-oc-cho-do-400g-600x600.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/nhan-macca-600x600.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/nho-kho-320g-600x600.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/nho-kho-550g-600x600.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/nho-kho-vang-350g-600x600.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/nhokho-600x600.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/satra.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/shortcode-style.css" beforeDir="false" afterPath="$PROJECT_DIR$/source/shortcode-style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/source/style(1).css" beforeDir="false" afterPath="$PROJECT_DIR$/source/style(1).css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/template.css" beforeDir="false" afterPath="$PROJECT_DIR$/source/template.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/tra-oolong-bazanland-1-600x600.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/tra-xanh-bazanland-1-600x600.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/trai-cay-say-kho-ngon-600x484.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/usmart-logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/vo-buoi-say-150g-600x600.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/vo-buoi-say-60g-600x600.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/vo-buoi-say-deo-300g-600x600.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/wine-logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/xoai-say-deo-120g-600x600.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/xoai-say-deo-150g-600x600.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/xoai-say-deo-250g-600x600.jpg" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -25,16 +130,20 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/fonts" />
+    <property name="last_opened_file_path" value="E:/mid hoa/Trung Tâm Luyện thi TOEIC, TOEIC Online _ Anh ngữ Ms Hoa.html" />
     <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/fonts" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\site\tinh-site\source" />
       <recent name="$PROJECT_DIR$/fonts" />
       <recent name="$PROJECT_DIR$/source" />
       <recent name="$PROJECT_DIR$" />
@@ -52,12 +161,16 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JavaScript Debug.index.html (1)">
+    <configuration name="index.html (1)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:60776/tinh-site/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
     <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/web/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.index.html (1)" />
         <item itemvalue="JavaScript Debug.index.html" />
       </list>
     </recent_temporary>
@@ -74,6 +187,8 @@
       <updated>1609146831219</updated>
       <workItem from="1609146834178" duration="1166000" />
       <workItem from="1609149365655" duration="1072000" />
+      <workItem from="1609150719043" duration="15229000" />
+      <workItem from="1609209883077" duration="35680000" />
     </task>
     <servers />
   </component>
